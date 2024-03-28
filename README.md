@@ -1,9 +1,3 @@
-# A minesweeper Flet app
+# Minesweeper Built With Flet
 
-An example of a minimal Flet app.
-
-To run the app:
-
-```
-flet run [app_directory]
-```# minesweeper
+A reimagining of the old school minesweeper game built with Flet.
